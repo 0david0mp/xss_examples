@@ -1,1 +1,1 @@
-<img src=x onerror="window.location='//example.com'">
+window.location='//example.com'
